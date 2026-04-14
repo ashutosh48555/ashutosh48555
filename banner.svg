@@ -245,9 +245,15 @@
 <text x="450" y="128" font-family="Courier New,monospace" font-size="82" font-weight="900"
       text-anchor="middle" fill="#00FF88" filter="url(#g1)" letter-spacing="5">ASHUTOSH</text>
 
-<!-- Subtext KUMAR SINGH -->
+<!-- Subtext KUMAR SINGH — deep glow layer -->
 <text x="450" y="166" font-family="Courier New,monospace" font-size="26" font-weight="700"
-      text-anchor="middle" fill="#ffffff" filter="url(#g1)" letter-spacing="3" opacity="0.9">KUMAR SINGH</text>
+      text-anchor="middle" fill="#00FF88" filter="url(#g3)" opacity="0.45" letter-spacing="3">KUMAR SINGH</text>
+<!-- Subtext KUMAR SINGH — mid glow layer -->
+<text x="450" y="166" font-family="Courier New,monospace" font-size="26" font-weight="700"
+      text-anchor="middle" fill="#00FF88" filter="url(#g2)" opacity="0.65" letter-spacing="3">KUMAR SINGH</text>
+<!-- Subtext KUMAR SINGH — crisp top layer -->
+<text x="450" y="166" font-family="Courier New,monospace" font-size="26" font-weight="700"
+      text-anchor="middle" fill="#00FF88" filter="url(#g1)" letter-spacing="3">KUMAR SINGH</text>
 
 <!-- Divider -->
 <line x1="240" y1="183" x2="660" y2="183" stroke="#00FF88" stroke-width="1" opacity="0.45" filter="url(#g1)"/>
