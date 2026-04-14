@@ -119,8 +119,6 @@ PORT    SERVICE              TARGET               PROGRESS
 [8080]  system-design        Architecture         ████████░░  80%
 [5432]  advanced-sql         PostgreSQL + RLS      ███████░░░  70%
 [443 ]  cloud-devops         AWS + Docker          █████░░░░░  50%
-[4444]  ethical-hacking      CEH + TryHackMe       ████░░░░░░  40%
-[3000]  competitive-dsa      Codeforces            ███░░░░░░░  30%
 ```
 
 ---
@@ -131,7 +129,7 @@ root@ashu-os:~$ github-trophies --user ashutosh48555 --theme matrix
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ashutosh48555&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=ashutosh48555&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" alt="trophies row 1"/>
 
 </div>
 
@@ -143,16 +141,10 @@ root@ashu-os:~$ htop --github --live --user=ashutosh48555
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ashutosh48555&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&cache_seconds=1800"/>
-</td>
-<td>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh48555&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&cache_seconds=1800"/>
-</td>
-</tr>
-</table>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashutosh48555&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh48555&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&cache_seconds=1800"/>
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=ashutosh48555&theme=dark&hide_border=true&background=0d1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF88&sideLabels=888888&dates=888888"/>
 
@@ -194,11 +186,30 @@ root@ashu-os:~$ netstat -an | grep ESTABLISHED | grep --social-channels
 
 <div align="center">
 
-| PROTOCOL | ENDPOINT | PORT | STATUS |
-|:---------|:---------|:-----|:-------|
-| `HTTPS` | [LinkedIn → /in/ashutosh48555](https://linkedin.com/in/ashutosh48555) | `443` | `OPEN` |
-| `SSH` | [GitHub → ashutosh48555](https://github.com/ashutosh48555) | `22` | `OPEN` |
-| `TCP` | DM open · collab · builds · chaos welcome | `∞` | `LISTENING` |
+<table>
+<tr>
+<td align="center">
+<a href="https://linkedin.com/in/ashutosh48555">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+</a>
+<br/><code>PORT 443 · OPEN</code>
+</td>
+<td align="center">
+<a href="https://github.com/ashutosh48555">
+<img src="https://img.shields.io/badge/GitHub-Follow-171515?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+</a>
+<br/><code>PORT 22 · OPEN</code>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Telegram-DM_Open-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="32"/>
+<br/><code>PORT ∞ · LISTENING</code>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Collabs-%26_Chaos_Welcome-00FF88?style=for-the-badge&logo=rocket.chat&logoColor=black" height="32"/>
+<br/><code>STATUS · ACTIVE</code>
+</td>
+</tr>
+</table>
 
 </div>
 
