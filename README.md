@@ -77,7 +77,6 @@ root@ashu-os:~$ ps aux | grep --user=ashutosh | sort -k3 -rn
 [002]  telegram-automation-bot         Node + Grammy     █████░   RUNNING
 [003]  ai-powered-tools-platform       Gemini + API      ████░░   TESTING
 [004]  dsa-grind-2026                  Python            ███░░░   DAILY
-[005]  ethical-hacking-labs            TryHackMe + Kali  ██░░░░   LEARNING
 ```
 
 ---
@@ -124,12 +123,24 @@ PORT    SERVICE              TARGET               PROGRESS
 ---
 
 ```bash
-root@ashu-os:~$ github-trophies --user ashutosh48555 --theme matrix
+root@ashu-os:~$ ls -la ~/projects | grep -E "pinned|featured"
 ```
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashutosh48555&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" alt="trophies row 1"/>
+<a href="https://github.com/ashutosh48555/Int375-project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh48555&repo=Int375-project&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&hide_border=true" height="130"/>
+</a>
+<a href="https://github.com/ashutosh48555/ReadmitRisk">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh48555&repo=ReadmitRisk&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&hide_border=true" height="130"/>
+</a>
+
+<a href="https://github.com/ashutosh48555/MusicFlow">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh48555&repo=MusicFlow&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&hide_border=true" height="130"/>
+</a>
+<a href="https://github.com/ashutosh48555/campus-bites">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh48555&repo=campus-bites&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&hide_border=true" height="130"/>
+</a>
 
 </div>
 
@@ -201,12 +212,8 @@ root@ashu-os:~$ netstat -an | grep ESTABLISHED | grep --social-channels
 <br/><code>PORT 22 · OPEN</code>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Telegram-DM_Open-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Collabs_%26_Chaos-Welcome-00FF88?style=for-the-badge&logo=rocket.chat&logoColor=black" height="32"/>
 <br/><code>PORT ∞ · LISTENING</code>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Collabs-%26_Chaos_Welcome-00FF88?style=for-the-badge&logo=rocket.chat&logoColor=black" height="32"/>
-<br/><code>STATUS · ACTIVE</code>
 </td>
 </tr>
 </table>
