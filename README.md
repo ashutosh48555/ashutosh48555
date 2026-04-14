@@ -181,11 +181,15 @@ PORT    SERVICE              TARGET               PROGRESS
 
 <div align="center">
 
-```
-> "The quietest ones ship the loudest code."
-> Building since Nov 2023. Still going.
-> Connection closed by remote host.
-```
+> ### **❝ The quieter you become, the more you can hear. ❞**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh48555)
+
+<br/>
+
+<sub>Building since Nov 2023 · Still going · Connection closed by remote host.</sub>
 
 <!-- EASTER EGG: 01000010 01110101 01101001 01101100 01100100 00101110 — decode it -->
 
