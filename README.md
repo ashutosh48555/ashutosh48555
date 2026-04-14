@@ -150,34 +150,6 @@ PORT    SERVICE              TARGET               PROGRESS
 
 ---
 
-## 🔌 Connect
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<a href="https://linkedin.com/in/ashutosh48555">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
-</a>
-<br/><code>PORT 443 · OPEN</code>
-</td>
-<td align="center">
-<a href="https://github.com/ashutosh48555">
-<img src="https://img.shields.io/badge/GitHub-Follow-171515?style=for-the-badge&logo=github&logoColor=white" height="32"/>
-</a>
-<br/><code>PORT 22 · OPEN</code>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Collabs_%26_Chaos-Welcome-00FF88?style=for-the-badge&logo=rocket.chat&logoColor=black" height="32"/>
-<br/><code>PORT ∞ · LISTENING</code>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <div align="center">
 
