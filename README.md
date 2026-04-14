@@ -116,11 +116,6 @@ PORT    SERVICE              TARGET               PROGRESS
 
 <img src="https://streak-stats.demolab.com/?user=ashutosh48555&theme=dark&hide_border=true&background=0d1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF88&sideLabels=888888&dates=888888"/>
 
-<br/><br/>
-
-![](https://img.shields.io/github/followers/ashutosh48555?label=Followers&style=for-the-badge&logo=github&color=00FF88&labelColor=0d1117)
-![](https://img.shields.io/github/stars/ashutosh48555?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=00FF88&labelColor=0d1117)
-![](https://img.shields.io/github/repos/ashutosh48555?label=Public%20Repos&style=for-the-badge&logo=github&color=00FF88&labelColor=0d1117&type=public)
 
 </div>
 
