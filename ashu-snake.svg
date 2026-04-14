@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" style="border-radius:8px">
+<defs>
+  <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+    <rect x="1" y="1" width="12" height="12" rx="2" fill="#161b22"/>
+  </pattern>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="hglow" x="-70%" y="-70%" width="240%" height="240%">
+    <feGaussianBlur stdDeviation="12" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="tglow" x="-15%" y="-15%" width="130%" height="130%">
+    <feGaussianBlur stdDeviation="14" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    @keyframes pulse{0%,100%{opacity:.20}50%{opacity:.08}}
+    @keyframes sqf{0%,100%{opacity:.85}50%{opacity:.55}}
+    .ashu{animation:pulse 3.5s ease-in-out infinite}
+    .sq4{animation:sqf 3.8s ease-in-out infinite}
+    .sq3{animation:sqf 5.1s ease-in-out infinite}
+    .sq2{animation:sqf 6.4s ease-in-out infinite}
+  </style>
+</defs>
+
+<rect width="900" height="180" fill="#0d1117"/>
+<rect width="900" height="180" fill="url(#grid)"/>
+
+<!-- Dim squares -->
+<rect class="sq2" x="81"  y="33"  width="12" height="12" rx="2" fill="#0e4429"/>
+<rect class="sq2" x="81"  y="113" width="12" height="12" rx="2" fill="#0e4429"/>
+<rect class="sq2" x="129" y="65"  width="12" height="12" rx="2" fill="#0e4429"/>
+<rect class="sq2" x="129" y="129" width="12" height="12" rx="2" fill="#0e4429"/>
+<rect class="sq2" x="161" y="49"  width="12" height="12" rx="2" fill="#0e4429"/>
+<rect class="sq2" x="161" y="97"  width="12" height="12" rx="2" fill="#0e4429"/>
+<rect class="sq2" x="209" y="17"  width="12" height="12" rx="2" fill="#0e4429"/>
+<rect class="sq2" x="241" y="49"  width="12" height="12" rx="2" fill="#0e4429"/>
+<rect class="sq2" x="241" y="97"  width="12" height="12" rx="2" fill="#0e4429"/>
+<rect class="sq2" x="273" y="33"  width="12" height="12" rx="2" fill="#0e4429"/>
+<rect class="sq2" x="273" y="129" width="12" height="12" rx="2" fill="#0e4429"/>
+<!-- Medium -->
+<rect class="sq2" x="321" y="33"  width="12" height="12" rx="2" fill="#006d32"/>
+<rect class="sq2" x="321" y="81"  width="12" height="12" rx="2" fill="#006d32"/>
+<rect class="sq2" x="321" y="129" width="12" height="12" rx="2" fill="#006d32"/>
+<rect class="sq2" x="353" y="17"  width="12" height="12" rx="2" fill="#006d32"/>
+<rect class="sq2" x="353" y="65"  width="12" height="12" rx="2" fill="#006d32"/>
+<rect class="sq2" x="353" y="113" width="12" height="12" rx="2" fill="#006d32"/>
+<rect class="sq2" x="401" y="49"  width="12" height="12" rx="2" fill="#006d32"/>
+<rect class="sq2" x="401" y="113" width="12" height="12" rx="2" fill="#006d32"/>
+<rect class="sq2" x="433" y="33"  width="12" height="12" rx="2" fill="#006d32"/>
+<rect class="sq2" x="433" y="97"  width="12" height="12" rx="2" fill="#006d32"/>
+<rect class="sq2" x="481" y="17"  width="12" height="12" rx="2" fill="#006d32"/>
+<rect class="sq2" x="481" y="65"  width="12" height="12" rx="2" fill="#006d32"/>
+<rect class="sq2" x="481" y="145" width="12" height="12" rx="2" fill="#006d32"/>
+<!-- Bright -->
+<rect class="sq3" x="529" y="33"  width="12" height="12" rx="2" fill="#26a641"/>
+<rect class="sq3" x="529" y="81"  width="12" height="12" rx="2" fill="#26a641"/>
+<rect class="sq3" x="529" y="129" width="12" height="12" rx="2" fill="#26a641"/>
+<rect class="sq3" x="561" y="17"  width="12" height="12" rx="2" fill="#26a641"/>
+<rect class="sq3" x="561" y="65"  width="12" height="12" rx="2" fill="#26a641"/>
+<rect class="sq3" x="561" y="113" width="12" height="12" rx="2" fill="#26a641"/>
+<rect class="sq3" x="593" y="49"  width="12" height="12" rx="2" fill="#26a641"/>
+<rect class="sq3" x="609" y="17"  width="12" height="12" rx="2" fill="#26a641"/>
+<rect class="sq3" x="625" y="81"  width="12" height="12" rx="2" fill="#26a641"/>
+<rect class="sq3" x="641" y="49"  width="12" height="12" rx="2" fill="#26a641"/>
+<rect class="sq3" x="641" y="97"  width="12" height="12" rx="2" fill="#26a641"/>
+<rect class="sq3" x="657" y="17"  width="12" height="12" rx="2" fill="#26a641"/>
+<!-- Brightest (recent streak) -->
+<rect class="sq4" x="673" y="33"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="673" y="81"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="673" y="129" width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="705" y="17"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="705" y="65"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="705" y="113" width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="705" y="145" width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="721" y="33"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="721" y="65"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="721" y="97"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="721" y="129" width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="753" y="17"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="753" y="49"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="753" y="81"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="753" y="113" width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="753" y="145" width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="785" y="33"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="785" y="65"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="785" y="97"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="817" y="17"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="817" y="49"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="817" y="81"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="817" y="113" width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="849" y="33"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="849" y="65"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="849" y="97"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="849" y="129" width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="865" y="17"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="865" y="49"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="865" y="97"  width="12" height="12" rx="2" fill="#39d353"/>
+<rect class="sq4" x="865" y="145" width="12" height="12" rx="2" fill="#39d353"/>
+
+<!-- ASHU watermark -->
+<text class="ashu" font-family="'Courier New',monospace" font-size="112" font-weight="900"
+      x="450" y="148" text-anchor="middle" letter-spacing="16"
+      fill="none" stroke="#00FF88" stroke-width="2" filter="url(#tglow)">ASHU</text>
+
+<!-- Snake tail 11 -->
+<circle r="4" fill="#010d04" opacity="0.4">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="-3.85s"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+<!-- Tail 10 -->
+<circle r="5" fill="#021a08" opacity="0.48">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="-3.5s"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+<!-- Seg 9 -->
+<circle r="6" fill="#032b10" opacity="0.55">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="-3.15s"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+<!-- Seg 8 -->
+<circle r="6" fill="#053d16" opacity="0.62">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="-2.8s"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+<!-- Seg 7 -->
+<circle r="7" fill="#085521" opacity="0.70">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="-2.45s"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+<!-- Seg 6 -->
+<circle r="7" fill="#0d7030" opacity="0.75">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="-2.1s"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+<!-- Seg 5 -->
+<circle r="8" fill="#128840" opacity="0.80">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="-1.75s"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+<!-- Seg 4 -->
+<circle r="9" fill="#1aaa52" opacity="0.85">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="-1.4s"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+<!-- Seg 3 -->
+<circle r="9" fill="#25cc60" opacity="0.90">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="-1.05s"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+<!-- Seg 2 -->
+<circle r="10" fill="#30ee72" opacity="0.95" filter="url(#glow)">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="-0.7s"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+<!-- Seg 1 -->
+<circle r="11" fill="#3af57e" filter="url(#glow)">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="-0.35s"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+
+<!-- HEAD -->
+<circle r="13" fill="#00FF88" filter="url(#hglow)">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="0s" rotate="auto"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+<!-- Eye -->
+<circle r="4" fill="#ffffff" opacity="0.95" filter="url(#glow)">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="-0.04s" rotate="auto"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+<!-- Tongue -->
+<circle r="2.5" fill="#ff3333" filter="url(#glow)">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="0.08s" rotate="auto"
+    path="M-70,90 C-10,22 70,158 160,90 C250,22 330,158 430,90 C530,22 610,158 700,90 C790,22 870,158 970,90"/>
+</circle>
+</svg>
