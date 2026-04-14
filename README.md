@@ -122,31 +122,6 @@ PORT    SERVICE              TARGET               PROGRESS
 
 ---
 
-```bash
-root@ashu-os:~$ ls -la ~/projects | grep -E "pinned|featured"
-```
-
-<div align="center">
-
-<a href="https://github.com/ashutosh48555/Int375-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh48555&repo=Int375-project&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&hide_border=true"/>
-</a>
-<a href="https://github.com/ashutosh48555/ReadmitRisk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh48555&repo=ReadmitRisk&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&hide_border=true"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ashutosh48555/MusicFlow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh48555&repo=MusicFlow&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&hide_border=true"/>
-</a>
-<a href="https://github.com/ashutosh48555/campus-bites">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh48555&repo=campus-bites&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&hide_border=true"/>
-</a>
-
-</div>
-
----
 
 ```bash
 root@ashu-os:~$ htop --github --live --user=ashutosh48555
