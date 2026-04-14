@@ -42,60 +42,30 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Name-Ashutosh_Kumar_Singh-00FF88?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/Degree-CSE_·_Data_Science_·_LPU-00FF88?style=for-the-badge&labelColor=0d1117)
-
-<br/>
-
-![](https://img.shields.io/badge/Batch-2027-333?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/📍-LPU%2C_Phagwara%2C_Punjab_🇮🇳-333?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/Status-Building_24%2F7-FF4500?style=for-the-badge&labelColor=0d1117)
-
-<br/>
-
-![](https://img.shields.io/badge/Philosophy-Build_in_silence._Ship_loudly.-555?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/2026_Goal-Ship_·_Get_Users_·_Repeat-00FF88?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
-## ⚡ Active Builds
-
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="250">
-<img src="https://img.shields.io/badge/●_ACTIVE-00FF88?style=flat-square&labelColor=0d1117"/><br/>
-<b>🚀 Full-Stack SaaS App</b><br/>
-<sub>Next.js · Supabase · TypeScript</sub><br/><br/>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-</td>
-<td align="center" width="250">
-<img src="https://img.shields.io/badge/●_RUNNING-00aaFF?style=flat-square&labelColor=0d1117"/><br/>
-<b>🤖 Telegram Bot Automation</b><br/>
-<sub>Node.js · Grammy · Webhooks</sub><br/><br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-</td>
+<td>🎓 <b>Education</b></td>
+<td>CSE + Data Science &nbsp;·&nbsp; LPU &nbsp;·&nbsp; Batch <b>2027</b></td>
 </tr>
 <tr>
-<td align="center" width="250">
-<img src="https://img.shields.io/badge/●_TESTING-FFaa00?style=flat-square&labelColor=0d1117"/><br/>
-<b>🧠 AI-Powered Tools Platform</b><br/>
-<sub>Gemini API · Python · Automation</sub><br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-</td>
-<td align="center" width="250">
-<img src="https://img.shields.io/badge/●_DAILY-FF6B6B?style=flat-square&labelColor=0d1117"/><br/>
-<b>📚 DSA Grind 2026</b><br/>
-<sub>Python · Data Structures · Algorithms</sub><br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-</td>
+<td>📍 <b>Location</b></td>
+<td>LPU Campus &nbsp;·&nbsp; Phagwara &nbsp;·&nbsp; Punjab &nbsp;🇮🇳</td>
+</tr>
+<tr>
+<td>⚡ <b>Status</b></td>
+<td>Building 24/7 — real products, real users, no excuses</td>
+</tr>
+<tr>
+<td>💭 <b>Philosophy</b></td>
+<td><i>Build in silence. Ship loudly.</i></td>
+</tr>
+<tr>
+<td>🎯 <b>2026 Goal</b></td>
+<td>Ship → Get Users → Iterate → Repeat</td>
+</tr>
+<tr>
+<td>☕ <b>Fuel</b></td>
+<td><code>while(true) { drink(); code(); ship(); }</code></td>
 </tr>
 </table>
 
